@@ -6,7 +6,6 @@ __Github__ = "github.com/AxeyedTran"
 #tool created by axeyed tran.  if you get the source code please write the source
 #=====Error Module=====#
 import os
-from unicodedata import name
 try:
     import requests
 except ImportError:
